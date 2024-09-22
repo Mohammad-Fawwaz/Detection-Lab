@@ -8,7 +8,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
+-Web Application Security:
+
+Identifying and exploiting security flaws in web applications.
+Understanding of security best practices, such as Content Security Policy (CSP), to prevent XSS.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
